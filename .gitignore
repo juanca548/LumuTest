@@ -5,6 +5,10 @@ cypress/screenshots/*
 cypress/videos/*
 /*cypress/downloads/*
 
+### Cucumber ###
+cypress/cucumber-json/*
+cypress/cucumber-report/*
+
 ### Node ###
 # Logs
 logs
